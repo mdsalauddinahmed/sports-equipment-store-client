@@ -30,5 +30,4 @@ Pro Gear is a modern, responsive, single-page e-commerce application built for s
 
 ## 🧑‍💻 Developer
 
-Developed by [Moinul Hassan]  
-📫 Contact: moinulh.msn@gmail.com  
+ 
